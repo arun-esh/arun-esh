@@ -17,7 +17,7 @@ Hi there, I'm <a href="https://arun-esh.github.io/" target="_blank" rel="norefer
 
 
 <h2 align="center">
-I'm a undergrad Student 💻, Computer Science  at University of Windsor 🎨!
+I'm a undergrad Student 💻 Computer Science  at University of Windsor!
 </h2> 
 
 Developing skills on Java
@@ -44,8 +44,7 @@ Developing skills on Java
 
 ## 📈 GitHub Stats 
 
-[![Arunesh's github stats](https://github-readme-stats.vercel.app/api?username=arun-esh)](https://github.com/arun-esh)
+[![Arunesh's github stats](https://github-readme-stats.vercel.app/api?username=arun-esh&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/arun-esh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-esh&layout=compact)](https://github.com/arun-esh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-esh&layout=compact&theme=merko)](https://github.com/arun-esh)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=arun-esh.arun-esh)](https://arun-esh.github.io/)
