@@ -48,4 +48,4 @@ Developing skills on Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-esh&layout=compact)](https://github.com/arun-esh)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=arun-esh.arun-esh)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=arun-esh.arun-esh)](https://arun-esh.github.io/)
