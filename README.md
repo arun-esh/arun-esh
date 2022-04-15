@@ -23,8 +23,6 @@ Computer Science Undergrad Student
 University of Windsor
 </h2> 
 
-Developing skills on Java
-
 
 ## 📈 GitHub Stats 
 
