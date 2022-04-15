@@ -25,25 +25,6 @@ University of Windsor
 
 Developing skills on Java
 
-### 🤝 Connect with me:
-
-
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- Java
-- Python
-- C
-
-## 🌱 I'm currently learning
-
-- Full-stack developer skills
-
-## 💼 Technical Skills
-
-
 
 ## 📈 GitHub Stats 
 
