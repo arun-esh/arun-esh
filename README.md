@@ -17,7 +17,7 @@ Hi there, I'm <a href="https://arun-esh.github.io/" target="_blank" rel="norefer
 
 
 <h2 align="center">
-Undergrad Student 💻 Computer Science  at University of Windsor!
+Undergrad Student 💻 Science  at University of Windsor!
 </h2> 
 
 Developing skills on Java
