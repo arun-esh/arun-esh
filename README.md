@@ -17,13 +17,13 @@ Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 
 <h3 align="center">
-Computer Science Undergrad Student
+Computer Science Undergrad Student 
 </h3> 
-<h2 align="center">
+<h2 align="center" >
 University of Windsor
 </h2> 
 
-
+![Twitter Follow](https://img.shields.io/twitter/follow/arun3sh?style=social)
 ## 📈 GitHub Stats 
 
 [![Arunesh's github stats](https://github-readme-stats.vercel.app/api?username=arun-esh&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/arun-esh)
