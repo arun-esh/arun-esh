@@ -24,9 +24,10 @@ University of Windsor
 </h2> 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/arun3sh?style=social)
-## 📈 GitHub Stats 
+<!-- ## 📈 GitHub Stats 
 
 [![Arunesh's github stats](https://github-readme-stats.vercel.app/api?username=arun-esh&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/arun-esh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-esh&layout=compact&theme=merko)](https://github.com/arun-esh)
 
+ -->
