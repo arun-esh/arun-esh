@@ -11,9 +11,9 @@ Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://arun-esh@github.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/59122465?s=400&u=ed20b0991055abaeb8a23244f02944e319370414&v=4" width=100px, height=100px,alt="my banner"></a>
-</p>
+</p> -->
 
 
 <h3 align="center">
