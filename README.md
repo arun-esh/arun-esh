@@ -3,10 +3,10 @@
 arun-esh/arun-esh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!-- 
 <h3 align="center">
 Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="80px"> I'm <a href="https://arun-esh.github.io/" target="_blank" rel="noreferrer">Arunesh Choudhary</a> 
-</h3>
+</h3> -->
 
 <h3 align="center">
 Hi there, I'm <a href="https://arun-esh.github.io/" target="_blank" rel="noreferrer">Arunesh Choudhary</a> 
