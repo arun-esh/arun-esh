@@ -24,7 +24,11 @@ Computer Science Undergrad Student
 </h3> 
 <h2 align="center" >
 University of Windsor
-</h2> 
+</h2>
+<br>
+<hr>
+<h3>Web Appliation</h3>
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/arun3sh?style=social)
 <!-- ## 📈 GitHub Stats 
