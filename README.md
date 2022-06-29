@@ -72,7 +72,7 @@ Application will have a backend with Nodejs with express framework. MongoDB will
 
 <p>Basic understanding of mongoDB</p>
 <p>How the CRUD methods work</p>
-<p>Learning HTM, CSS and javaScript along with NodeJs, express, mongoose </p>
+<p>Learning HTML, CSS and javaScript along with NodeJs, express, mongoose </p>
 
 <img width="453" height="300" alt="image" src="https://user-images.githubusercontent.com/59122465/176482270-988df869-a718-42b2-beeb-dfaf3c88081f.png">
 
