@@ -26,8 +26,57 @@ Computer Science Undergrad Student
 University of Windsor
 </h2>
 <br>
-<hr>
-<h3>Web Appliation</h3>
+<h2>Projects</h2>
+<h3 align="center">Web Application</h3>
+<p align="center">HTML ✨ CSS ✨ JavaScript</p>
+<p align="center">NodeJs ✨ mongoDB ✨ express</p>
+
+<h2>Description</h2>
+<p>
+Application will have a backend with Nodejs with express framework. MongoDB will be used for all CRUD methods.
+</p>
+<p>
+  <strong>Frontend: </strong>
+  <ul>
+    <li>
+      User interface with all the products from database</li>
+    <li>
+  User login, logout and registration interface</li>
+      <li>
+  User cart interface</li>
+        <li>
+  User profile interface</li>
+          <li>
+  User login interface</li>
+    </ul>
+</p>
+<br>
+
+<p>
+  <strong>Backend: </strong>
+  <ul>
+    <li>NodeJS with Express framework</li>
+    <li>mongoDB with mongoose</li>
+    <li>CRUD methods
+      <ul>
+        <li>getAllProducts</li>
+        <li>getOneProduct</li>
+        <li>updateProduct</li>
+        <li>deleteProduct</li>
+      </ul>
+    </li>
+   </ul>
+</p>
+
+<h2>How it is going:</h2>
+
+<p>Basic understanding of mongoDB</p>
+<p>How the CRUD methods work</p>
+<p>Learning HTM, CSS and javaScript along with NodeJs, express, mongoose </p>
+
+<img width="453" height="300" alt="image" src="https://user-images.githubusercontent.com/59122465/176482270-988df869-a718-42b2-beeb-dfaf3c88081f.png">
+
+
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/arun3sh?style=social)
