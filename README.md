@@ -27,13 +27,14 @@ University of Windsor
 </h2>
 <br>
 <h2>Projects</h2>
-<h3 align="center">Web Application</h3>
+<h3 align="center"><a href="https://github.com/arun-esh/webAPPy/wiki/Release-v1.0.0" target="_blank" rel="noreferrer">Web Application</a></h3>
 <p align="center">HTML ✨ CSS ✨ JavaScript</p>
 <p align="center">NodeJs ✨ mongoDB ✨ express</p>
 
 <h2>Description</h2>
 <p>
-Application will have a backend with Nodejs with express framework. MongoDB will be used for all CRUD methods.
+Application will have a backend with Nodejs with express framework. MongoDB will be used for all CRUD methods.</p>
+<p><a href="https://github.com/arun-esh/webAPPy/wiki/Release-v1.0.0" target="_blank" rel="noreferrer">Release-v1.0.0</a></p>
 </p>
 <p>
   <strong>Frontend: </strong>
