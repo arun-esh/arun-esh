@@ -27,7 +27,9 @@ University of Windsor
 </h2>
 <br>
 <h2>Projects</h2>
-<h3 align="center"><a href="https://github.com/arun-esh/webAPPy/wiki/" target="_blank" rel="noreferrer">Web Application</a></h3>
+<!---
+<h3 align="center"><a href="https://github.com/arun-esh/webAPPy/wiki/" target="_blank" rel="noreferrer">Web Application</a></h3>--->
+<h3 align="center">Web Application</h3>
 <p align="center">HTML ✨ CSS ✨ JavaScript</p>
 <p align="center">NodeJs ✨ mongoDB ✨ express</p>
 
