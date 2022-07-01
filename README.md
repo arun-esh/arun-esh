@@ -9,7 +9,7 @@ Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 </h3> -->
 
 <h3 align="center">
-Hi there, I'm <a href="https://arun-esh.github.io/" target="_blank" rel="noreferrer">Arunesh Choudhary</a> 
+Hi there, I'm Arunesh Choudhary
 </h3>
 
 
